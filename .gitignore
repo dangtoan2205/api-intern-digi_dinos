@@ -1,0 +1,35 @@
+/node_modules
+/public/hot
+/public/storage
+/public/uploads
+/public/upload
+/public/images
+/public/image
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.php_cs.cache
+.php-cs-fixer.cache
+.rnd
+storage/api-docs/api-docs.json
+
+// composer
+composer.lock
+
+// idea
+.idea
+
+// docker
+app.Dockerfile
+web.Dockerfile
+docker-compose.yml
+/docker
+Makefile
+/public/uploads
+
